@@ -201,6 +201,7 @@
 
 ### 教程与指南
 
+- **[AI Code Guide](https://github.com/automata/aicodeguide)** - AI 编码路线图和学习指南，涵盖 AI 辅助编程工具、实践和最佳实践
 - **[Agent Design Patterns CN](https://github.com/fzy2012/rhzl-Agentic-Design-Patterns-cn)** - AI 智能体设计模式中文翻译，包含完整代码示例，支持本地运行和 Google Colab 在线运行
 
 ### 社区资源

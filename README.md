@@ -201,6 +201,7 @@
 
 ### Tutorials & Guides
 
+- **[AI Code Guide](https://github.com/automata/aicodeguide)** - Roadmap and guide to start coding with AI, covering AI-assisted coding tools, practices, and best practices
 - **[Agent Design Patterns CN](https://github.com/fzy2012/rhzl-Agentic-Design-Patterns-cn)** - AI agent design patterns Chinese translation with complete code examples, supports local execution and Google Colab online execution
 
 ### Community Resources
