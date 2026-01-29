@@ -25,6 +25,7 @@
 - [Agent Skills](#agent-skills)
 - [开发工具与加速](#开发工具与加速)
 - [学习资源](#学习资源)
+- [ClaudeCode Rules](#claudecode-rules)
 
 ---
 
@@ -210,6 +211,40 @@
 
 - **[Awesome AI](https://github.com/cssmagic/awesome-ai)** - AI 大型语言模型、AI 辅助编程等领域的常用资料
 - **[Awesome LLM Resources](https://github.com/WangRongsheng/awesome-LLM-resources)** - LLM 资源集合
+
+---
+
+## ClaudeCode Rules
+
+本节包含 ClaudeCode 的开发规则和指南，涵盖各种编程语言、框架和最佳实践。
+
+### 语言相关规则
+
+- **[Python](rules/python.md)** - Python 开发规则，包括类型提示、异步模式和最佳实践
+- **[Go](rules/go.md)** - Go 开发指南和约定
+- **[Rust](rules/rust.md)** - Rust 开发规则和安全实践
+- **[Node.js](rules/nodejs.md)** - Node.js 开发规则和模式
+- **[iOS Swift](rules/ios-swift.md)** - iOS Swift 开发指南
+- **[Android App](rules/android-app.md)** - Android 应用开发规则
+- **[Android System](rules/android-system.md)** - Android 系统级开发指南
+
+### 框架与平台规则
+
+- **[React Frontend](rules/react-frontend.md)** - React 前端开发规则和模式
+- **[Vue Frontend](rules/vue-frontend.md)** - Vue.js 前端开发指南
+- **[Backend](rules/backend.md)** - 后端开发规则和最佳实践
+- **[Docker](rules/docker.md)** - Docker 容器化规则和实践
+
+### 开发实践
+
+- **[Agents](rules/agents.md)** - 智能体编排和开发规则
+- **[Coding Style](rules/coding-style.md)** - 通用编码风格指南
+- **[Patterns](rules/patterns.md)** - 设计模式和架构指南
+- **[Performance](rules/performance.md)** - 性能优化规则
+- **[Security](rules/security.md)** - 安全最佳实践和指南
+- **[Testing](rules/testing.md)** - 测试策略和实践
+- **[Git Workflow](rules/git-workflow.md)** - Git 工作流和提交约定
+- **[Hooks](rules/hooks.md)** - Git 钩子和自动化规则
 
 ---
 

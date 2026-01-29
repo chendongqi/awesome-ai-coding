@@ -25,6 +25,7 @@
 - [Agent Skills](#agent-skills)
 - [Development Tools & Acceleration](#development-tools--acceleration)
 - [Learning Resources](#learning-resources)
+- [ClaudeCode Rules](#claudecode-rules)
 
 ---
 
@@ -210,6 +211,40 @@
 
 - **[Awesome AI](https://github.com/cssmagic/awesome-ai)** - Common resources in AI large language models, AI-assisted programming, and other fields
 - **[Awesome LLM Resources](https://github.com/WangRongsheng/awesome-LLM-resources)** - LLM resource collection
+
+---
+
+## ClaudeCode Rules
+
+This section contains development rules and guidelines for ClaudeCode, covering various programming languages, frameworks, and best practices.
+
+### Language-Specific Rules
+
+- **[Python](rules/python.md)** - Python development rules including type hints, async patterns, and best practices
+- **[Go](rules/go.md)** - Go development guidelines and conventions
+- **[Rust](rules/rust.md)** - Rust development rules and safety practices
+- **[Node.js](rules/nodejs.md)** - Node.js development rules and patterns
+- **[iOS Swift](rules/ios-swift.md)** - iOS Swift development guidelines
+- **[Android App](rules/android-app.md)** - Android application development rules
+- **[Android System](rules/android-system.md)** - Android system-level development guidelines
+
+### Framework & Platform Rules
+
+- **[React Frontend](rules/react-frontend.md)** - React frontend development rules and patterns
+- **[Vue Frontend](rules/vue-frontend.md)** - Vue.js frontend development guidelines
+- **[Backend](rules/backend.md)** - Backend development rules and best practices
+- **[Docker](rules/docker.md)** - Docker containerization rules and practices
+
+### Development Practices
+
+- **[Agents](rules/agents.md)** - Agent orchestration and development rules
+- **[Coding Style](rules/coding-style.md)** - General coding style guidelines
+- **[Patterns](rules/patterns.md)** - Design patterns and architectural guidelines
+- **[Performance](rules/performance.md)** - Performance optimization rules
+- **[Security](rules/security.md)** - Security best practices and guidelines
+- **[Testing](rules/testing.md)** - Testing strategies and practices
+- **[Git Workflow](rules/git-workflow.md)** - Git workflow and commit conventions
+- **[Hooks](rules/hooks.md)** - Git hooks and automation rules
 
 ---
 
