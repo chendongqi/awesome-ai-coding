@@ -176,10 +176,12 @@
 ### Resource Collections & Platforms
 
 - **[SkillsMP](https://skillsmp.com/)** - AI Agent Skill marketplace platform featuring 58,925+ open-source skills, supports AI semantic search, discover and explore community-built AI skills
+- **[NotebookLM Skill](https://github.com/PleasePrompto/notebooklm-skill)** - Claude Code Skill that enables Claude Code to communicate directly with Google NotebookLM notebooks, query uploaded documents and get source-grounded, citation-backed answers
 - **[Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills)** - Curated Agent Skills resource collection
 - **[Awesome Agent Skills (Libukai)](https://github.com/libukai/awesome-agent-skills)** - Another excellent Agent Skills resource collection
 - **[Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills)** - Curated Agent Skills collection
 - **[OpenSkills](https://github.com/numman-ali/openskills)** - Open-source Agent Skills collection
+- **[Skills](https://skills.sh)** - The Open Agent Skills Eco System
 
 ---
 
@@ -245,4 +247,4 @@ For questions or suggestions, please contact us via Issues.
 
 ---
 
-**Last Updated**: January 23, 2026
+**Last Updated**: January 29, 2026

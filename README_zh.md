@@ -176,10 +176,12 @@
 ### 资源集合与平台
 
 - **[SkillsMP](https://skillsmp.com/)** - AI Agent Skill 市场平台，收录 58,925+ 个开源技能，支持 AI 语义搜索，发现和探索社区构建的 AI 技能
+- **[NotebookLM Skill](https://github.com/PleasePrompto/notebooklm-skill)** - Claude Code Skill，让 Claude Code 直接与 Google NotebookLM 笔记本通信，查询上传文档并获得基于来源的、带引用的答案
 - **[Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills)** - 精心整理的 Agent Skills 资源集合
 - **[Awesome Agent Skills (Libukai)](https://github.com/libukai/awesome-agent-skills)** - 另一个优秀的 Agent Skills 资源集合
 - **[Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills)** - Agent Skills 精选集合
 - **[OpenSkills](https://github.com/numman-ali/openskills)** - 开源 Agent Skills 集合
+- **[Skills](https://skills.sh)** - 开放Agent Skills生态系统
 
 ---
 
@@ -245,4 +247,4 @@
 
 ---
 
-**最后更新**: 2026年1月23日
+**最后更新**: 2026年1月29日
