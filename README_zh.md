@@ -69,6 +69,7 @@
 
 ### 编码智能体工具
 
+- **[Claude Code Plugins](https://github.com/wshobson/agents)** - 完整的生产级系统，结合 108 个专业 AI 智能体、15 个多智能体工作流编排器、129 个 Agent Skills 和 72 个开发工具，组织成 72 个聚焦插件，专为 Claude Code 设计（27.2k+ stars）
 - **[Serena](https://github.com/oraios/serena)** - 强大的开源编码智能体工具包，提供语义检索和代码编辑能力，本地运行无需 API Key
 - **[OpenAutoGLM](https://github.com/zai-org/open-autoglm)** - 自动操作用户 Android 手机完成任务的智能体系统，支持自然语言控制
 - **[SuperClaude Framework](https://github.com/superclaude-org/superclaude_framework)** - 完整的软件开发工作流框架，专为 AI 编码代理设计，提供 30 个命令和 16 个专业化智能体
@@ -169,6 +170,7 @@
 
 ### 社区 Skills 集合
 
+- **[Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills)** - 专为 Claude Code/Antigravity/Cursor 设计的终极 Agent Skills 集合，包含 552+ 个经过实战验证的高性能技能，涵盖架构、开发、安全、基础设施、数据/AI、业务等领域（5.1k+ stars）
 - **[Vercel Labs Agent Skills](https://github.com/vercel-labs/agent-skills)** - Vercel Labs 的 Agent Skills 集合
 - **[AWS Agent Skills](https://github.com/itsmostafa/aws-agent-skills)** - AWS 相关的 Agent Skills
 - **[Obsidian Skills](https://github.com/kepano/obsidian-skills)** - Obsidian 笔记软件的 Agent Skills
@@ -176,11 +178,15 @@
 
 ### 资源集合与平台
 
+- **[Claude Code Plugins](https://github.com/wshobson/agents)** - 完整的 Claude Code 插件系统，包含 72 个聚焦插件、108 个专业智能体、129 个 Agent Skills 和 15 个工作流编排器，用于智能自动化和多智能体编排（27.2k+ stars）
 - **[SkillsMP](https://skillsmp.com/)** - AI Agent Skill 市场平台，收录 58,925+ 个开源技能，支持 AI 语义搜索，发现和探索社区构建的 AI 技能
+- **[skill0](https://skill0.io/)** - 技能市场和目录平台，用于发现和探索社区构建的 AI 技能，收录 423+ 个精选技能
+- **[Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)** - 精心整理的 Claude Skills 资源列表，包含资源和工具，用于自定义 Claude AI 工作流，涵盖开发、通信、创意、生产力、协作和安全等领域（27.7k+ stars）
+- **[Awesome Claude Skills (TravisVN)](https://github.com/travisvn/awesome-claude-skills)** - 精心整理的 awesome Claude Skills 资源列表，包含资源和工具，用于自定义 Claude AI 工作流，特别专注于 Claude Code（6.2k+ stars）
+- **[Awesome Claude Skills (BehiSecc)](https://github.com/BehiSecc/awesome-claude-skills)** - 精心整理的 Claude Skills 资源列表，涵盖文档技能、开发工具、数据分析、科学研究、写作、媒体、健康、协作和安全等领域（4.7k+ stars）
 - **[NotebookLM Skill](https://github.com/PleasePrompto/notebooklm-skill)** - Claude Code Skill，让 Claude Code 直接与 Google NotebookLM 笔记本通信，查询上传文档并获得基于来源的、带引用的答案
 - **[Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills)** - 精心整理的 Agent Skills 资源集合
 - **[Awesome Agent Skills (Libukai)](https://github.com/libukai/awesome-agent-skills)** - 另一个优秀的 Agent Skills 资源集合
-- **[Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills)** - Agent Skills 精选集合
 - **[OpenSkills](https://github.com/numman-ali/openskills)** - 开源 Agent Skills 集合
 - **[Skills](https://skills.sh)** - 开放Agent Skills生态系统
 

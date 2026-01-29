@@ -69,6 +69,7 @@
 
 ### Coding Agent Tools
 
+- **[Claude Code Plugins](https://github.com/wshobson/agents)** - Comprehensive production-ready system combining 108 specialized AI agents, 15 multi-agent workflow orchestrators, 129 agent skills, and 72 development tools organized into 72 focused plugins for Claude Code (27.2k+ stars)
 - **[Serena](https://github.com/oraios/serena)** - Powerful open-source coding agent toolkit providing semantic search and code editing capabilities, runs locally without API Key
 - **[OpenAutoGLM](https://github.com/zai-org/open-autoglm)** - Agent system that automatically operates Android phones to complete tasks, supports natural language control
 - **[SuperClaude Framework](https://github.com/superclaude-org/superclaude_framework)** - Complete software development workflow framework designed for AI coding agents, provides 30 commands and 16 specialized agents
@@ -169,6 +170,7 @@
 
 ### Community Skills Collections
 
+- **[Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills)** - The ultimate collection of 552+ agentic skills for Claude Code/Antigravity/Cursor, battle-tested and high-performance, covering architecture, development, security, infrastructure, data/AI, business, and more (5.1k+ stars)
 - **[Vercel Labs Agent Skills](https://github.com/vercel-labs/agent-skills)** - Vercel Labs Agent Skills collection
 - **[AWS Agent Skills](https://github.com/itsmostafa/aws-agent-skills)** - AWS-related Agent Skills
 - **[Obsidian Skills](https://github.com/kepano/obsidian-skills)** - Obsidian note-taking software Agent Skills
@@ -176,11 +178,15 @@
 
 ### Resource Collections & Platforms
 
+- **[Claude Code Plugins](https://github.com/wshobson/agents)** - Comprehensive Claude Code plugin system with 72 focused plugins, 108 specialized agents, 129 agent skills, and 15 workflow orchestrators for intelligent automation and multi-agent orchestration (27.2k+ stars)
 - **[SkillsMP](https://skillsmp.com/)** - AI Agent Skill marketplace platform featuring 58,925+ open-source skills, supports AI semantic search, discover and explore community-built AI skills
+- **[skill0](https://skill0.io/)** - Skills marketplace and directory for discovering and exploring AI skills built by the community, featuring 423+ curated skills
+- **[Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)** - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows, covering development, communication, creative, productivity, collaboration, and security domains (27.7k+ stars)
+- **[Awesome Claude Skills (TravisVN)](https://github.com/travisvn/awesome-claude-skills)** - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows, particularly focused on Claude Code (6.2k+ stars)
+- **[Awesome Claude Skills (BehiSecc)](https://github.com/BehiSecc/awesome-claude-skills)** - A curated list of Claude Skills covering document skills, development tools, data analysis, scientific research, writing, media, health, collaboration, and security domains (4.7k+ stars)
 - **[NotebookLM Skill](https://github.com/PleasePrompto/notebooklm-skill)** - Claude Code Skill that enables Claude Code to communicate directly with Google NotebookLM notebooks, query uploaded documents and get source-grounded, citation-backed answers
 - **[Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills)** - Curated Agent Skills resource collection
 - **[Awesome Agent Skills (Libukai)](https://github.com/libukai/awesome-agent-skills)** - Another excellent Agent Skills resource collection
-- **[Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills)** - Curated Agent Skills collection
 - **[OpenSkills](https://github.com/numman-ali/openskills)** - Open-source Agent Skills collection
 - **[Skills](https://skills.sh)** - The Open Agent Skills Eco System
 
