@@ -73,6 +73,7 @@
 - **[Serena](https://github.com/oraios/serena)** - Powerful open-source coding agent toolkit providing semantic search and code editing capabilities, runs locally without API Key
 - **[OpenAutoGLM](https://github.com/zai-org/open-autoglm)** - Agent system that automatically operates Android phones to complete tasks, supports natural language control
 - **[SuperClaude Framework](https://github.com/superclaude-org/superclaude_framework)** - Complete software development workflow framework designed for AI coding agents, provides 30 commands and 16 specialized agents
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)** - Local TUI and report generator for inspecting AI coding agent sessions across cost, tokens, latency, and tool failures
 
 ---
 

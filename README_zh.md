@@ -73,6 +73,7 @@
 - **[Serena](https://github.com/oraios/serena)** - 强大的开源编码智能体工具包，提供语义检索和代码编辑能力，本地运行无需 API Key
 - **[OpenAutoGLM](https://github.com/zai-org/open-autoglm)** - 自动操作用户 Android 手机完成任务的智能体系统，支持自然语言控制
 - **[SuperClaude Framework](https://github.com/superclaude-org/superclaude_framework)** - 完整的软件开发工作流框架，专为 AI 编码代理设计，提供 30 个命令和 16 个专业化智能体
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)** - 本地 TUI 和报告生成器，用于检查 AI 编码智能体会话的成本、token、延迟和工具失败
 
 ---
 
