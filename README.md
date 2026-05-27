@@ -47,6 +47,7 @@
 - **[Claude Code](https://claude.ai/)** - Anthropic's AI programming assistant
 - **[OpenCode](https://github.com/opencode-ai/opencode)** - Powerful terminal AI coding agent supporting multiple models, MCP and LSP protocols
 - **[Codex](https://openai.com/api/)** - OpenAI's code generation terminal tool
+- **[codex-profiles](https://github.com/Ducksss/codex-profiles)** - Codex CLI/Desktop profile switcher using isolated CODEX_HOME directories for separate auth, config, sessions, plugins, and logs
 - **[Gemini CLI](https://github.com/google/gemini-cli)** - Google Gemini command-line tool
 
 ---
