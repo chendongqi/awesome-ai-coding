@@ -185,6 +185,7 @@
 - **[Awesome Claude Skills (TravisVN)](https://github.com/travisvn/awesome-claude-skills)** - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows, particularly focused on Claude Code (6.2k+ stars)
 - **[Awesome Claude Skills (BehiSecc)](https://github.com/BehiSecc/awesome-claude-skills)** - A curated list of Claude Skills covering document skills, development tools, data analysis, scientific research, writing, media, health, collaboration, and security domains (4.7k+ stars)
 - **[NotebookLM Skill](https://github.com/PleasePrompto/notebooklm-skill)** - Claude Code Skill that enables Claude Code to communicate directly with Google NotebookLM notebooks, query uploaded documents and get source-grounded, citation-backed answers
+- **[Wikivibe](https://wikivibe.ru/en/)** - Practical knowledge base for AI-assisted development with guides, a glossary, jobs, and a public MCP endpoint
 - **[Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills)** - Curated Agent Skills resource collection
 - **[Awesome Agent Skills (Libukai)](https://github.com/libukai/awesome-agent-skills)** - Another excellent Agent Skills resource collection
 - **[OpenSkills](https://github.com/numman-ali/openskills)** - Open-source Agent Skills collection
