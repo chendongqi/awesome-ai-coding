@@ -206,6 +206,7 @@
 
 ---
 
+- **[TeDDy](https://github.com/atte500/TeDDy)** - An opinionated coding harness that prevents code slop by embedding TDD, Hexagonal Architecture, and vertical slicing into a Markdown-driven workflow. Python, AGPL-3.0.
 ## Learning Resources
 
 ### Tutorials & Guides
