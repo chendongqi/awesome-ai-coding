@@ -48,6 +48,7 @@
 - **[OpenCode](https://github.com/opencode-ai/opencode)** - 强大的终端 AI 编码代理，支持多模型、MCP 和 LSP 协议
 - **[Codex](https://openai.com/api/)** - OpenAI 的代码生成终端工具
 - **[Gemini CLI](https://github.com/google/gemini-cli)** - Google Gemini 命令行工具
+- **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** - 本地优先的 CLI 与 TUI 编码智能体，通过 llama.cpp 分支在本机完整运行开源权重模型，无需账号和 API Key，内置 56 个工具，支持 MCP 和五层本地记忆系统，可在 macOS、Linux 和 Windows 上使用（目前为开发者预览版，2k+ stars）
 
 ---
 
@@ -73,6 +74,7 @@
 - **[Serena](https://github.com/oraios/serena)** - 强大的开源编码智能体工具包，提供语义检索和代码编辑能力，本地运行无需 API Key
 - **[OpenAutoGLM](https://github.com/zai-org/open-autoglm)** - 自动操作用户 Android 手机完成任务的智能体系统，支持自然语言控制
 - **[SuperClaude Framework](https://github.com/superclaude-org/superclaude_framework)** - 完整的软件开发工作流框架，专为 AI 编码代理设计，提供 30 个命令和 16 个专业化智能体
+- **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** - 开源智能体编码助手，采用 React 和 ink 构建的 TUI，在本机驱动开源权重模型，内置 56 个工具，覆盖浏览器、文件系统、git、记忆和视觉能力，并支持 MCP（目前为开发者预览版，2k+ stars）
 
 ---
 
