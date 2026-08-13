@@ -48,6 +48,7 @@
 - **[OpenCode](https://github.com/opencode-ai/opencode)** - Powerful terminal AI coding agent supporting multiple models, MCP and LSP protocols
 - **[Codex](https://openai.com/api/)** - OpenAI's code generation terminal tool
 - **[Gemini CLI](https://github.com/google/gemini-cli)** - Google Gemini command-line tool
+- **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** - Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine through a llama.cpp fork, no account or API key required, with 56 built-in tools, MCP support and a five-layer local memory system, available on macOS, Linux and Windows (currently a developer preview, 2k+ stars)
 
 ---
 
@@ -73,6 +74,7 @@
 - **[Serena](https://github.com/oraios/serena)** - Powerful open-source coding agent toolkit providing semantic search and code editing capabilities, runs locally without API Key
 - **[OpenAutoGLM](https://github.com/zai-org/open-autoglm)** - Agent system that automatically operates Android phones to complete tasks, supports natural language control
 - **[SuperClaude Framework](https://github.com/superclaude-org/superclaude_framework)** - Complete software development workflow framework designed for AI coding agents, provides 30 commands and 16 specialized agents
+- **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** - Open-source agentic coding assistant with a React and ink TUI, driving open-weight models locally with 56 built-in tools covering browser, filesystem, git, memory and vision, plus MCP support (currently a developer preview, 2k+ stars)
 
 ---
 
