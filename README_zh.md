@@ -35,6 +35,7 @@
 
 - **[Cursor](https://cursor.sh/)** - AI 代码编辑器，支持代码生成、重构和智能补全
 - **[GitHub Copilot](https://github.com/features/copilot)** - GitHub 官方 AI 代码补全工具
+- **[Harness Desktop](https://github.com/baiyuscc13724-max/deepseek-harness-desktop)** - 官方 DeepSeek Harness 编程工作台的开源 Windows 客户端，提供主题、模型路由以及应用内插件与 Skills 市场
 - **[Replit](https://replit.com/)** - 在线 AI 编程环境
 - **[Bolt](https://bolt.new/)** - 通过 AI 聊天创建应用和网站的在线平台
 - **[Devin AI](https://www.cognition-labs.com/)** - AI 软件工程师
