@@ -35,6 +35,7 @@
 
 - **[Cursor](https://cursor.sh/)** - AI code editor with code generation, refactoring, and intelligent completion
 - **[GitHub Copilot](https://github.com/features/copilot)** - GitHub's official AI code completion tool
+- **[Harness Desktop](https://github.com/baiyuscc13724-max/deepseek-harness-desktop)** - Open-source Windows client for the official DeepSeek Harness coding workbench, with themes, model routing, and an in-app plugin and Skills marketplace
 - **[Replit](https://replit.com/)** - Online AI programming environment
 - **[Bolt](https://bolt.new/)** - Online platform for creating apps & websites by chatting with AI
 - **[Devin AI](https://www.cognition-labs.com/)** - AI software engineer
