@@ -139,7 +139,7 @@
 
 ### MCP Tooling
 
-- **[SandBase CLI](https://github.com/sandbaseai/cli)** - Open-source CLI and MCP bridge connecting Claude Code, Codex, Cursor, and other AI coding agents to 2,000+ AI models and APIs through one account
+- **[SandBase CLI](https://github.com/sandbaseai/cli)** - Open-source CLI and MCP bridge connecting Claude Code, Codex, Cursor, and other AI coding agents to 2,000+ AI models through one account
 
 ### MCP Server Platforms
 
