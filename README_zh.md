@@ -137,6 +137,10 @@
 
 - **[Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)** - MCP 服务器集合，涵盖文件访问、数据库连接、API 集成等
 
+### MCP 工具
+
+- **[SandBase CLI](https://github.com/sandbaseai/cli)** - 开源 CLI 与 MCP 桥接工具，通过一个账户将 Claude Code、Codex、Cursor 等 AI 编程智能体连接到 2,000+ 个 AI 模型和 API
+
 ### MCP 服务器平台
 
 - **[MCP.so](https://mcp.so/zh)** - MCP 服务器平台和目录
