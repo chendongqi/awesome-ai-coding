@@ -150,6 +150,7 @@
 ## Code Analysis & Understanding
 
 ### Code Understanding Tools
+- **[Canopy](https://canopy.8starlabs.com/)** - Visual architecture mapping for GitHub repositories, connecting services, dependencies, ownership, and cost context with AI-ready exports.
 
 - **[DeepWiki](https://deepwiki.com/)** - GitHub repository deep understanding and organization tool, change `github.com` to `deepwiki.com` to use, supports Devin-driven conversational Q&A
 
