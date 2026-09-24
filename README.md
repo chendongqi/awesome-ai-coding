@@ -115,6 +115,10 @@
 
 - **[CodeRabbit](https://coderabbit.ai/)** - AI code review assistant
 
+### AI Testing Tools
+
+- **[Agent QA](https://github.com/vostride/agent-qa)** - The self-improving QA agent for natural-language web and mobile tests, with run memory and self-healing execution.
+
 ---
 
 ## Prompt Engineering
