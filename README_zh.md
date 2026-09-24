@@ -115,6 +115,10 @@
 
 - **[CodeRabbit](https://coderabbit.ai/)** - AI 代码审查助手
 
+### AI 测试工具
+
+- **[Agent QA](https://github.com/vostride/agent-qa)** - 自我改进的 QA 智能体，支持自然语言驱动的 Web 和移动端测试，并利用历史运行记忆及执行过程中的自愈能力适应界面变化。
+
 ---
 
 ## 提示词工程
