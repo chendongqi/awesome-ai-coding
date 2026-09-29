@@ -198,6 +198,10 @@
 
 - **[MarkItDown](https://github.com/microsoft/markitdown)** - Microsoft's open-source document conversion tool supporting multiple formats to Markdown, especially suitable for use with LLMs
 
+### Coding Assistant Utilities
+
+- **[Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay)** - Independent Windows desktop companion for Codex Desktop that displays quota/reset context and a local usage dashboard.
+
 ### Project Management
 
 - **[Spec-Kit](https://github.com/github/spec-kit)** - GitHub's specification-driven development toolkit (33.9k+ stars), supports AI-assisted development, deeply integrated with GitHub Copilot
