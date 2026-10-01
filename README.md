@@ -114,6 +114,7 @@
 ### Code Review Tools
 
 - **[CodeRabbit](https://coderabbit.ai/)** - AI code review assistant
+- **[CodeGuard AI](https://javacoder716.gumroad.com/l/codeguard-ai)** - Self-hosted AI code review for GitHub Pull Requests with Spring Boot, supporting OpenAI, Gemini, and Ollama
 
 ---
 
