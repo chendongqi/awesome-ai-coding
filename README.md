@@ -176,6 +176,8 @@
 - **[Obsidian Skills](https://github.com/kepano/obsidian-skills)** - Obsidian note-taking software Agent Skills
 - **[Agent Skills for Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** - Context engineering-related Agent Skills
 
+- **[100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill)** - Engineering skills and companion CLI for spec-first development, formal property checks, second-model review and evidence-based completion (349+ stars)
+
 ### Resource Collections & Platforms
 
 - **[Claude Code Plugins](https://github.com/wshobson/agents)** - Comprehensive Claude Code plugin system with 72 focused plugins, 108 specialized agents, 129 agent skills, and 15 workflow orchestrators for intelligent automation and multi-agent orchestration (27.2k+ stars)
